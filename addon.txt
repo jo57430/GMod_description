@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"Script: Description(Studio FCS)"
+	"version"	"1.0.0"
+	"up_date"	"16/09/17"
+	"author_name"	"Studio FCS[Jonathan]"
+	"author_email"	"mcfc.jo57@gmail.com"
+	"author_url"	"http://futurcraftteam.livehost.fr/"
+}
